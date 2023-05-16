@@ -39,7 +39,7 @@ Create a New Expense Page:
 Home and Budgets Page for a New User:
 <img width="1510" alt="Screenshot 2023-05-15 at 23 16 53" src="https://github.com/adytynenko/Budget-Application/assets/79933498/245ce841-13c2-406f-8260-81352b471d1f">
 
-<img width="1510" alt="Screenshot 2023-05-15 at 23 17 01" src="https://github.com/adytynenko/Budget-Application/assets/79933498/aa5a6480-8f54-4544-a204-4b5d020d2931">
+<img width="1508" alt="Screenshot 2023-05-15 at 23 17 01" src="https://github.com/adytynenko/Budget-Application/assets/79933498/c50c6f72-91ea-4731-a256-fc81b9757a43">
 
 Entities Mapping:
 
