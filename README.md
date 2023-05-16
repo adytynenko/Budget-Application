@@ -41,4 +41,8 @@ Home and Budgets Page for a New User:
 
 <img width="1510" alt="Screenshot 2023-05-15 at 23 17 01" src="https://github.com/adytynenko/Budget-Application/assets/79933498/aa5a6480-8f54-4544-a204-4b5d020d2931">
 
+Entities Mapping:
 
+<img width="842" alt="Entity Relationship Diagram" src="https://github.com/adytynenko/Budget-Application/assets/79933498/b92fdda2-eaaf-40a4-9bac-04aff75cda64">
+
+App Demo: https://www.youtube.com/watch?v=bppt5HGjJuU&t=926s
